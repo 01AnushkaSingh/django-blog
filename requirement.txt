@@ -1,4 +1,5 @@
 asgiref==3.11.0
+backports.zoneinfo==0.2.1;python_version<"3.9"
 crispy-bootstrap4==2025.6
 Django==6.0.1
 django-crispy-forms==2.5
